@@ -26,8 +26,20 @@ It’s written step‑by‑step so even a beginner can follow along.
 <img width="400" height="500" alt="ChatGPT Image Jul 19, 2025 at 05_02_31 PM" src="https://github.com/user-attachments/assets/b10a194c-c87d-45f4-93d5-517f92fafd8a" />
 
 
-## 🖥️ Step 1: Connect Everything
+## 🔌 Step 1 – Cabling Setup
 
+1. **Use Ethernet Cable 1** to connect:  
+   - `fa0/1` on **Switch** → `g0/0` on **Router**
+
+2. **Use Ethernet Cable 2**:  
+   - From your **PC1** (for testing) → `fa0/2` on **Switch**
+
+3. **Use Ethernet Cable 3**:  
+   - From your **PC2** (for testing) → `fa0/3` on **Switch**
+
+4. **Use the console cable** to connect your PC to the switch or router so you can configure them.
+
+   
 
 
 
