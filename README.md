@@ -26,8 +26,15 @@ It’s written step‑by‑step so even a beginner can follow along.
 <img width="400" height="500" alt="ChatGPT Image Jul 19, 2025 at 05_02_31 PM" src="https://github.com/user-attachments/assets/b10a194c-c87d-45f4-93d5-517f92fafd8a" />
 
 
+## 🖥️ Step 1: Connect Everything
 
-## ⚙️ Step 1 – Configure VLANs on Switch
+
+
+
+
+
+
+## ⚙️ Step 2 – Configure VLANs on Switch
 Connected to switch console:
 
 ```bash
@@ -60,7 +67,7 @@ write memory
 
 ```
 
-## 🌉 Step 2 – Configure Router-on-a-Stick
+## 🌉 Step 3 – Configure Router-on-a-Stick
 
 Connected to router console:
 
@@ -87,7 +94,7 @@ write memory
 
 ```
 
-## 🌐 Step 3 – Configure OSPF
+## 🌐 Step 4 – Configure OSPF
 
 Connected to router console:
 
@@ -101,7 +108,7 @@ write memory
 
 ```
 
-## 🔒 Step 4 – Apply ACLs
+## 🔒 Step 5 – Apply ACLs
 
 Connected to router console:
 
